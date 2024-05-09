@@ -8,7 +8,7 @@
 - `sudo pacman -S base-devel git go`.
 
 ## Installation
-- Clone the repository: `git clone https://github.com/matevz-keber/present-aur`.
+- Clone the repository: `git clone https://github.com/matevzkeber/present-aur`.
 - Change your directory into it and build it: `cd present-aur && make install` (You likely have to run make with elevated privileges).
 
 ## Removal
